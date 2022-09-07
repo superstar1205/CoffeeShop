@@ -1,2 +1,2 @@
-# coffee-shop.github.io
+# coffeeshop.github.io
  pure HTML/CSS/JS
